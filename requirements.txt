@@ -1,0 +1,11 @@
+torch>=2.0
+torchvision>=0.15
+torchaudio>=2.0
+transformers>=4.30
+mediapipe>=0.10
+opencv-contrib-python
+scikit-learn
+pandas
+numpy<2
+tqdm
+Pillow
